@@ -67,10 +67,10 @@ My goal is to grow into a skilled software professional by gaining practical exp
 ### Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=java"/>
+  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
-`Java`
+`Java` 
 
 ### Web Development
 
@@ -79,6 +79,7 @@ My goal is to grow into a skilled software professional by gaining practical exp
 </p>
 
 `HTML` `CSS` `JavaScript`
+
 ### Core Computer Science
 
 `Data Structures & Algorithms`
@@ -88,7 +89,7 @@ My goal is to grow into a skilled software professional by gaining practical exp
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 `Git` `GitHub` `Visual Studio Code`
@@ -121,7 +122,7 @@ The project helped me understand how data can be explored and used to support be
 
 **Focus:**
 
-`Power BI` `Data Analysis` `Cricket Analytics`
+`Power BI` `Cricket Analytics`
 
 ---
 
@@ -238,7 +239,7 @@ I'm interested in opportunities where I can:
 
 ---
 
-## 🌐 Find Me Online
+## 🌐 Connect With Me
 
 <div align="center">
 
