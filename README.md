@@ -12,11 +12,11 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/naveen-prasanth-v">
+<a href="https://www.linkedin.com/in/naveen-prasanth-8239b02b8">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:naveenprasanth653@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=naveenprasanth653@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -70,7 +70,7 @@ My goal is to grow into a skilled software professional by gaining practical exp
   <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
-`Java` 
+`Java`
 
 ### Web Development
 
@@ -140,7 +140,9 @@ The website presents my profile, education, skills, projects, and professional j
 
 **Live Portfolio:**
 
-https://naveenprasanth352.github.io/naveen-portfolio/
+<a href="https://naveenprasanth352.github.io/naveen-portfolio/" target="_blank">
+View My Portfolio
+</a>
 
 ---
 
@@ -247,12 +249,12 @@ I'm interested in opportunities where I can:
 <img src="https://img.shields.io/badge/GitHub-naveenprasanth352-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/naveen-prasanth-v">
+<a href="https://www.linkedin.com/in/naveen-prasanth-8239b02b8">
 <img src="https://img.shields.io/badge/LinkedIn-Naveen%20Prasanth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:naveenprasanth653@gmail.com">
-<img src="https://img.shields.io/badge/Email-naveenprasanth653%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=naveenprasanth653@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
